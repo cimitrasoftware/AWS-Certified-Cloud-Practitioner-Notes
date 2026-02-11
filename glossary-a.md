@@ -12,7 +12,7 @@ The global presence of AWS datacenters
 
 **AWS Shared Responsibility**
 This is the idea that AWS and customers have responsibilities for systems in the AWS Cloud. 
-- Responsibilities are 
+- Responsibilities are based on the service levels of the offering from AWS
 
   
 **Availability Zones**
