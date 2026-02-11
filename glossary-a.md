@@ -11,7 +11,7 @@ The global presence of AWS datacenters
 - Separate major regions of a country or even country regions for sovereignty
 
 **AWS Shared Responsibility**
-This is the idea that AWS and customers have responsibilities for systems in the AWS Cloud. 
+- This is the idea that AWS and customers have responsibilities for systems in the AWS Cloud 
 - Responsibilities are based on the service levels of the offering from AWS
 
   
@@ -19,5 +19,6 @@ This is the idea that AWS and customers have responsibilities for systems in the
 - Separate data centers in an AWS Region
 - Helps to create High Availability
 - Helps to create Fault Tolerance
+- At least 3 Availability Zones exist in each AWS Region
 
 
