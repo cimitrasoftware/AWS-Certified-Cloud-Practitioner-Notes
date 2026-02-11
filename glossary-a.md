@@ -10,6 +10,10 @@ The global presence of AWS datacenters
 **AWS Region**
 - Separate major regions of a country or even country regions for sovereignty
  
+**AMI** *Amazon Machine Image*
+- Premade machine images
+- May even have pre-configured software such as a web server
+
 **Availability Zones**
 - Separate data centers in an AWS Region
 - Helps to create High Availability
