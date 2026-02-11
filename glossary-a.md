@@ -1,9 +1,12 @@
 **AWS**
 Amazon Web Services
+
 **AWS Cloud**
 Amazon Web Service Cloud
+
 **AWS Region**
-- Sepa
+- Separate major regions of a country or even country regions for soverignty
+  
 **Availability Zones**
 - Separate data centers in an AWS Region
 - Helps to create High Availability
