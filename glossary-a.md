@@ -8,7 +8,12 @@ Amazon Web Service Cloud
 The global presence of AWS datacenters
 
 **AWS Region**
-- Separate major regions of a country or even country regions for soverignty
+- Separate major regions of a country or even country regions for sovereignty
+
+**AWS Shared Responsibility**
+This is the idea that AWS and customers have responsibilities for systems in the AWS Cloud. 
+- Responsibilities are 
+
   
 **Availability Zones**
 - Separate data centers in an AWS Region
