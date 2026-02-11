@@ -5,7 +5,8 @@ Elastic Compute Cloud
 
 **ELB** *Elastic Load Balancing*
 
-- Methods for designing compute(processor) based components to increase and decrease dynamically
+- A method for designing compute(processor) based components to increase and decrease dynamically'
+- A Load Balancer is a process that **sits in front** of the EC2 instances and gives tasks or data to EC2 instances based on their current processing load
 
 **EC2 Auto Scaling** *Amazon EC2 Autoscaling*
 
