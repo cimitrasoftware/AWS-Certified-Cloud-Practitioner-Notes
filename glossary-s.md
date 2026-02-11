@@ -1,3 +1,10 @@
+**AWS Shared Responsibility**
+- This is the idea that AWS and customers have responsibilities for systems in the AWS Cloud 
+- Responsibilities are based on the management level of the offering from AWS
+- - Unmanaged
+  - Partially Managed
+  - Fully Managed
+
 **SDK** *Amazon SDK*
 This is a separate installation from the Amazon CLI. The SDK is typically installed as a client specific to the platform and the IDE that will be used
 
@@ -20,6 +27,7 @@ This is an immediate notification process. Messages sent via SNS might be
 ![Mobile Push](https://raw.githubusercontent.com/cimitrasoftware/AWS-Certified-Cloud-Practitioner-Notes/main/images/sns_iphone.png)
 
   
+
 
 
 
