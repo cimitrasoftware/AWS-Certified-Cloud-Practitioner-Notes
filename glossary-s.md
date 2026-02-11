@@ -1,3 +1,7 @@
+**SDK** *Amazon SDK*
+This is a separate installation from the Amazon CLI. The SDK is typically installed as a client specific to the platform and the IDE that will be used
+
+
 **SQS** *Amazon SQS*
 
 Simple Que Service
@@ -16,6 +20,7 @@ This is an immediate notification process. Messages sent via SNS might be
 ![Mobile Push](https://raw.githubusercontent.com/cimitrasoftware/AWS-Certified-Cloud-Practitioner-Notes/main/images/sns_iphone.png)
 
   
+
 
 
 
