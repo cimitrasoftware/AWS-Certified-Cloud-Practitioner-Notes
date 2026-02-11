@@ -12,4 +12,6 @@ Simple Notification Service
 This is an immediate notification process. Messages sent via SNS might be
 - Email
 - SMS (Text)
+- Mobile Push: Notifications pushed directly to the mobile device, not through an SMS message
   
+
