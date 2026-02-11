@@ -10,3 +10,12 @@ Elastic Compute Cloud
 
 **EC2 Auto Scaling** *Amazon EC2 Autoscaling*
 
+**EC2 Instance Types**
+
+There are several pre-made EC2 Instance Types. Different Instance Types are configured for different purposes. 
+- Compute Optimized
+- Memory Optimized
+- Accelerated Computing
+- Storage Optimized
+
+
