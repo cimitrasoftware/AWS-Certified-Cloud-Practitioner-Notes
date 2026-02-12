@@ -5,9 +5,14 @@
   - Partially Managed
   - Fully Managed
 
+**Savings Plans**
+Save up to 72 percent across a variety of Instance types and services by committing to a consistent usage level for 1 or 3 years.
+
 **SDK** *Amazon SDK*
 This is a separate installation from the Amazon CLI. The SDK is typically installed as a client specific to the platform and the IDE that will be used
 
+**SPOT Instances**
+This is the cheapest EC2 Instance to run. Spot Instances are spun up by AWS only when there is unutilized capacity available 
 
 **SQS** *Amazon SQS*
 
@@ -27,6 +32,7 @@ This is an immediate notification process. Messages sent via SNS might be
 ![Mobile Push](https://raw.githubusercontent.com/cimitrasoftware/AWS-Certified-Cloud-Practitioner-Notes/main/images/sns_iphone.png)
 
   
+
 
 
 
