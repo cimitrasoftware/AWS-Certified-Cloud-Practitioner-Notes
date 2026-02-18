@@ -1,6 +1,10 @@
 **AWS**
 Amazon Web Services
 
+**AWS Auto Scaling Group** *AWS ASG*
+- AWS automatically removes excess resource capacity
+- It is a group that can have multiple EC2 instances assigned to it
+
 **AWS Cloud**
 Amazon Web Service Cloud
 
